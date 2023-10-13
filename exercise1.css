@@ -1,0 +1,24 @@
+
+/* styling using tags */
+h2{
+    color: chocolate;
+}
+
+/* styling using id's */
+#hey{color: red;}
+
+/* styling using class names */
+.bye{
+    color:crimson;
+}
+
+body{ background-color:
+    orangered ;}
+ul{color:
+     maroon;}
+b{color:
+     red;}
+i{color:
+     red;}
+     head{margin: 
+        2%;}
